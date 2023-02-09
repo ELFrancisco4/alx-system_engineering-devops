@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Current working directory
+ls -al
+
+cd .. 
+# Parent directory
+ls -al
+
+# Boot directory
+cd /boot
+
+ls -al
